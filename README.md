@@ -20,13 +20,13 @@ absolute nerds
 
 uhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
-*purposefully bad input
-*character jsons + the ability to make characters an flxclothsprite (amazing i know)
-*fred
-*fred
-*fred
-*fred
-*fred
-*fred
-*nerd
-*any other nerd emoji stuff
+* purposefully bad input
+* character jsons + the ability to make characters an flxclothsprite (amazing i know)
+* fred
+* fred
+* fred
+* fred
+* fred
+* fred
+* nerd
+* any other nerd emoji stuff
