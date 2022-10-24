@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="gfDanceTitle.png">
-	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="gfDance0000" x="0" y="0" width="717" height="641" frameX="-2" frameY="-14" frameWidth="721" frameHeight="655"/>
 	<SubTexture name="gfDance0001" x="717" y="0" width="721" height="641" frameX="0" frameY="-14" frameWidth="721" frameHeight="655"/>
